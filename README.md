@@ -1,12 +1,12 @@
 #Open Domain Dialog  (Shen Fanqi)  
-Paper   
+##Paper   
 ![DialoGPT](https://arxiv.org/abs/1911.00536)  
 -[Paper]  
   -[Understanding]  
-Generation   
-Dataset  
-Understanding  
-Generation  
+###Generation   
+##Dataset  
+###Understanding  
+###Generation  
 \
 Task-oriented Dialog  (Jiang Yi)  
 Paper  
