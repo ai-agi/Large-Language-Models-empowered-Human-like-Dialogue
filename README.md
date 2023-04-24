@@ -1,4 +1,4 @@
-# **Dialog**  
+# **Dialog**:blush:  
 
 ___  
 ## Note
@@ -8,7 +8,7 @@ ___
 * ### _Paper_
   * #### Understanding
   * #### Generation 
-    * [DialoGPT](https://arxiv.org/abs/1911.00536):blush:   
+    * [DialoGPT](https://arxiv.org/abs/1911.00536):star:   
  
 * ### Dataset  
   * #### Understanding  
