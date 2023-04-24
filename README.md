@@ -5,7 +5,7 @@
 ### Paper  
 #### Understanding
 #### Generation 
-[DialoGPT](https://arxiv.org/abs/1911.00536)  
+[DialoGPT](https://arxiv.org/abs/1911.00536):blush  
  
 ### Dataset  
 #### Understanding  
