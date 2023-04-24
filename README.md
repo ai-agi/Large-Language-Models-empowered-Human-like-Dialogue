@@ -1,17 +1,22 @@
-**Dialog**  
+# **Dialog**  
   
 ***  
-# Open Domain Dialog  (Shen Fanqi)  
-## Paper   
+## Open Domain Dialog  (Shen Fanqi)  
+### Paper  
+#### Understanding
+#### Generation 
 [DialoGPT](https://arxiv.org/abs/1911.00536)  
--[Paper]  
-  -[Understanding]  
-###Generation   
-##Dataset  
-###Understanding  
-###Generation  
+ 
+### Dataset  
+#### Understanding  
+#### Generation  
+
+### Code  
+#### Understanding  
+#### Generation 
+
 ***  
-Task-oriented Dialog  (Jiang Yi)  
+## Task-oriented Dialog  (Jiang Yi)  
 Paper  
 Understanding  
 Generation  
@@ -19,7 +24,7 @@ Dataset
 Understanding  
 Generation  
 ***  
-Question Answering  (Chen Pu)  
+## Question Answering  (Chen Pu)  
 Paper  
 Understanding  
 Generation  
