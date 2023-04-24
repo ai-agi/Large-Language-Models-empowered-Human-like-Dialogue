@@ -1,7 +1,7 @@
 # **Dialog**  
 
 ***
-No star if cite number is below 10; one stars if cite number is below 100;two stars if cite number is below 1000; four stars if cite number is below 5000; five stars if cite number exceed 5000
+No star if cite number is below 10;  one stars if cite number is below 100;  two stars if cite number is below 1000;  four stars if cite number is below 5000;  five stars if cite number exceed 5000
 ***  
 ## Open Domain Dialog  (Shen Fanqi)  
 * ### _Paper_
