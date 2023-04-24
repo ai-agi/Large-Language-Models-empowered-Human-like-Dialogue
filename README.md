@@ -1,7 +1,8 @@
-Open Domain Dialog  (Shen Fanqi)  
+#Open Domain Dialog  (Shen Fanqi)  
 Paper   
 ![DialoGPT](https://arxiv.org/abs/1911.00536)  
-Understanding  
+-[Paper]
+  -[Understanding]
 Generation   
 Dataset  
 Understanding  
