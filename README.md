@@ -1,10 +1,10 @@
-Open Domain Dialog
-Paper
-Dataset
+Open Domain Dialog  
+Paper  
+Dataset  
 
 
 
 
-Task-oriented Dialog
-Paper
-Dataset
+Task-oriented Dialog  
+Paper  
+Dataset  
