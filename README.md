@@ -17,9 +17,9 @@
 
 ***  
 ## Task-oriented Dialog  (Jiang Yi)  
-Paper  
-Understanding  
-Generation  
+* Paper  
+* Understanding  
+* Generation  
 Dataset  
 Understanding  
 Generation  
