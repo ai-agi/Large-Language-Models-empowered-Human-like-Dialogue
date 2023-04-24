@@ -2,9 +2,9 @@
   
 ***  
 ## Open Domain Dialog  (Shen Fanqi)  
-### Paper  
-#### Understanding
-#### Generation 
+* ### Paper  
+* #### Understanding
+* #### Generation 
 [DialoGPT](https://arxiv.org/abs/1911.00536):blush:   
  
 ### Dataset  
