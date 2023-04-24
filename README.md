@@ -7,19 +7,19 @@
   * #### Generation 
     * [DialoGPT](https://arxiv.org/abs/1911.00536):blush:   
  
-### Dataset  
-#### Understanding  
-#### Generation  
+* ### Dataset  
+  * #### Understanding  
+  * #### Generation  
 
-### Code  
-#### Understanding  
-#### Generation 
+* ### Code  
+  * #### Understanding  
+  * #### Generation 
 
 ***  
 ## Task-oriented Dialog  (Jiang Yi)  
-* Paper  
-* Understanding  
-* Generation  
+* ### Paper  
+  * #### Understanding  
+  * #### Generation  
 Dataset  
 Understanding  
 Generation  
