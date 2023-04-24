@@ -1,4 +1,4 @@
-Open Domain Dialog  (ShenFanqi)  
+Open Domain Dialog  (Shen Fanqi)  
 Paper   
 ![DialoGPT](https://arxiv.org/abs/1911.00536)  
 Understanding  
@@ -7,7 +7,7 @@ Dataset
 Understanding  
 Generation  
 \
-Task-oriented Dialog  (JiangYi)  
+Task-oriented Dialog  (Jiang Yi)  
 Paper  
 Understanding  
 Generation  
@@ -15,7 +15,7 @@ Dataset
 Understanding  
 Generation  
 \
-Question Answering  (ChenPu)  
+Question Answering  (Chen Pu)  
 Paper  
 Understanding  
 Generation  
