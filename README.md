@@ -1,4 +1,6 @@
+<div align="center">
 **Dialog**
+</div>
 ***  
 #Open Domain Dialog  (Shen Fanqi)  
 ##Paper   
