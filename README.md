@@ -9,6 +9,8 @@ ___
   * #### Understanding
   * #### Generation 
     * [DialoGPT](https://arxiv.org/abs/1911.00536):star::star:  
+    * [FusedChat](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:
+    * [EVA2.0](https://link.springer.com/article/10.1007/s11633-022-1387-3):star:
  
 * ### Dataset  
   * #### Understanding  
