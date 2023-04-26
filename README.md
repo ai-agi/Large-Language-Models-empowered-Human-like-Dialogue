@@ -11,6 +11,10 @@ ___
     * [DialoGPT](https://arxiv.org/abs/1911.00536):star::star:  
     * [FusedChat](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:
     * [EVA2.0](https://link.springer.com/article/10.1007/s11633-022-1387-3):star:
+    * [HOPE](https://dl.acm.org/doi/abs/10.1145/3488560.3498509):star:
+    * [TOD turns](https://arxiv.org/abs/2004.06871):star::star:([2022更新](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:)
+    * [LAION-400_2021](https://arxiv.org/abs/2111.02114):star::star:
+    
  
 * ### Dataset  
   * #### Understanding  
