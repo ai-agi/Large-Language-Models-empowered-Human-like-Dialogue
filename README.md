@@ -28,7 +28,6 @@ ___
     * [zhddline](https://github.com/zll17/Neural_Topic_Models):star::star:
     * [CrossWOZ](https://github.com/thu-coai/CrossWOZ):star::star:
     * [banjori](https://github.com/baderj/domain_generation_algorithms):star::star:
-    * [Hugging Face](https://github.com/huggingface/transformers):star::star::star::star::star:
 
 * ### Code  
   * #### Understanding  
