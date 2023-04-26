@@ -14,8 +14,8 @@ ___
     * [HOPE](https://dl.acm.org/doi/abs/10.1145/3488560.3498509):star:
     * [TOD turns](https://arxiv.org/abs/2004.06871):star::star:([2022更新](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:)
     * [LAION-400_2021](https://arxiv.org/abs/2111.02114):star::star:
+    * [Crosswoz](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task):star:
     
- 
 * ### Dataset  
   * #### Understanding  
   * #### Generation  
@@ -24,6 +24,11 @@ ___
     * [EVA2.0](https://github.com/thu-coai/EVA):star::star:
     * [HOPE](https://github.com/LCS2-IIITD/SPARTA_WSDM2022):star:
     * [TOD turns](https://github.com/tomyoung903/FusedChat):star:
+    * [CDial-GPT](https://github.com/thu-coai/CDial-GPT):star::star::star::star:
+    * [zhddline](https://github.com/zll17/Neural_Topic_Models):star::star:
+    * [CrossWOZ](https://github.com/thu-coai/CrossWOZ):star::star:
+    * [banjori](https://github.com/baderj/domain_generation_algorithms):star::star:
+    * [Hugging Face](https://github.com/huggingface/transformers):star::star::star::star::star:
 
 * ### Code  
   * #### Understanding  
