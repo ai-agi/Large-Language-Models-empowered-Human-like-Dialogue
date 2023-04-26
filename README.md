@@ -19,12 +19,11 @@ ___
 * ### Dataset  
   * #### Understanding  
   * #### Generation  
-    * [DialoGPT](https://github.com/huggingface/transformers)
-    * [FusedChat](https://github.com/tomyoung903/FusedChat)
-    * [EVA2.0](https://github.com/thu-coai/EVA)
-    * [HOPE](https://github.com/LCS2-IIITD/SPARTA_WSDM2022)
-    * [TOD turns](https://github.com/tomyoung903/FusedChat)
-    * [LAION-400_2021](https://laion.ai/laion-400-open-dataset/)
+    * [DialoGPT](https://github.com/huggingface/transformers):star::star::star::star::star:
+    * [FusedChat](https://github.com/tomyoung903/FusedChat):star:
+    * [EVA2.0](https://github.com/thu-coai/EVA):star::star:
+    * [HOPE](https://github.com/LCS2-IIITD/SPARTA_WSDM2022):star:
+    * [TOD turns](https://github.com/tomyoung903/FusedChat):star:
 
 * ### Code  
   * #### Understanding  
