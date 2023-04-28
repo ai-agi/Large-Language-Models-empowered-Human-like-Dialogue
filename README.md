@@ -10,7 +10,7 @@ No star if github or gitee stars is below 100;  one stars if github or gitee sta
 
 ___  
 ## Open Domain Dialog  (Shen Fanqi)  
-* ### _Paper_
+* ### _Paper_  
   * #### Understanding
   * #### Generation 
     * [DialoGPT(ACL2020)--DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation] 
@@ -23,7 +23,7 @@ ___
     * [Crosswoz](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task):star:
   * #### Multi-modal
     
-* ### _Dataset_    
+* ### _Dataset_   
   * #### Understanding  
   * #### Generation  
     * [DialoGPT](https://github.com/huggingface/transformers):star::star::star::star::star:
