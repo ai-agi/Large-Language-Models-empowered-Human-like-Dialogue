@@ -36,7 +36,7 @@ ___
     * [CrossWOZ](https://github.com/thu-coai/CrossWOZ):star::star:
     * [banjori](https://github.com/baderj/domain_generation_algorithms):star::star:
   * #### Multi-modal
-  * <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>  
+  * #### <font color=#1E90FF size=7 face="Multi-modal">  
   * <font face="黑体">我是黑体字</font>  
 
 * ### _Code_   
