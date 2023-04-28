@@ -23,7 +23,7 @@ ___
     * [Crosswoz](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task):star:
   * #### Multi-modal
     
-* ### Dataset  
+* ### _Dataset_    
   * #### Understanding  
   * #### Generation  
     * [DialoGPT](https://github.com/huggingface/transformers):star::star::star::star::star:
@@ -37,7 +37,7 @@ ___
     * [banjori](https://github.com/baderj/domain_generation_algorithms):star::star:
   * #### Multi-modal
 
-* ### Code  
+* ### _Code_   
   * #### Understanding  
   * #### Generation 
 
@@ -47,7 +47,7 @@ ___
   * #### Understanding  
   * #### Generation  
   * #### Multi-modal  
-Dataset  
+* ### Dataset  
   * #### Understanding  
   * #### Generation  
   * #### Multi-modal 
