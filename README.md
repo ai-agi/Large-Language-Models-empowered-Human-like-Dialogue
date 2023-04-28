@@ -38,6 +38,7 @@ ___
   * #### Multi-modal
   * #### <font color=#1E90FF size=7 face="Multi-modal">  
   * <font color=#1E90FF size=7 face="黑体">Multi-modal</font>  
+    <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
 
 * ### _Code_   
   * #### Understanding  
