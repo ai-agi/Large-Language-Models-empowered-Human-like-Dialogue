@@ -35,7 +35,7 @@ ___
     * [zhddline](https://github.com/zll17/Neural_Topic_Models):star::star:
     * [CrossWOZ](https://github.com/thu-coai/CrossWOZ):star::star:
     * [banjori](https://github.com/baderj/domain_generation_algorithms):star::star:
-  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Multi-modal`
+  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
 * ### _Code_   
   * #### Understanding  
