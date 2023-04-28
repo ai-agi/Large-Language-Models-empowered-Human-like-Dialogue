@@ -50,3 +50,13 @@ Dataset
 Understanding  
 Generation  
 ***  
+
+## Evaluator 
+* ### Paper  
+  * ####  
+  * #### 
+* ### Model
+
+* ### Human Evaluation
+
+* ### Auto Machine Evaluation
