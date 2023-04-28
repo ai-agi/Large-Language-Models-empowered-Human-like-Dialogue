@@ -8,7 +8,8 @@ ___
 * ### _Paper_
   * #### Understanding
   * #### Generation 
-    * [DialoGPT(ACL2020)--DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation] (https://arxiv.org/abs/1911.00536) :star::star:   
+    * [DialoGPT(ACL2020)--DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation] 
+     (https://arxiv.org/abs/1911.00536) :star::star:   
     * [FusedChat](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:
     * [EVA2.0](https://link.springer.com/article/10.1007/s11633-022-1387-3):star:
     * [HOPE](https://dl.acm.org/doi/abs/10.1145/3488560.3498509):star:
