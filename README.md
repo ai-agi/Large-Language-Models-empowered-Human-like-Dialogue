@@ -35,10 +35,7 @@ ___
     * [zhddline](https://github.com/zll17/Neural_Topic_Models):star::star:
     * [CrossWOZ](https://github.com/thu-coai/CrossWOZ):star::star:
     * [banjori](https://github.com/baderj/domain_generation_algorithms):star::star:
-  * #### Multi-modal
-  * #### <font color=#1E90FF size=7 face="Multi-modal">  
-  * <font color=#1E90FF size=7 face="黑体">Multi-modal</font>  
-    <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Multi-modal`
 
 * ### _Code_   
   * #### Understanding  
