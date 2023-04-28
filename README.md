@@ -24,8 +24,8 @@ ___
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
     
 * ### _Dataset_   
-  * #### Understanding  
-  * #### Generation  
+  * #### Retrieval Model  
+  * #### Generative Model  
     * [DialoGPT](https://github.com/huggingface/transformers):star::star::star::star::star:
     * [FusedChat](https://github.com/tomyoung903/FusedChat):star:
     * [EVA2.0](https://github.com/thu-coai/EVA):star::star:
@@ -38,8 +38,8 @@ ___
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
 * ### _Code_   
-  * #### Understanding  
-  * #### Generation 
+  * #### Retrieval Model  
+  * #### Generative Model 
 
 ***  
 ## Task-oriented Dialog  (Jiang Yi)  
