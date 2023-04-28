@@ -37,7 +37,7 @@ ___
     * [banjori](https://github.com/baderj/domain_generation_algorithms):star::star:
   * #### Multi-modal
   * #### <font color=#1E90FF size=7 face="Multi-modal">  
-  * <font face="黑体">我是黑体字</font>  
+  * <font color=#1E90FF size=7 face="黑体">Multi-modal</font>  
 
 * ### _Code_   
   * #### Understanding  
