@@ -2,10 +2,10 @@
 
 ___  
 ## Note 
-Paper
+Paper :dart:  
 No star if cite number is below 10;  one stars if cite number is below 100;  two stars if cite number is below 1000; three stars if cite number is below 5000; four stars if cite number is below 10000;  five stars if cite number exceed 10000. For example, DialoGPT have been cited 892 times up to now and it should be marked as two stars. 
 
-Code or Dataset
+Code or Dataset :dart:  
 No star if github or gitee stars is below 100;  one stars if github or gitee stars is below 1000;  two stars if github or gitee stars is below 10000; three stars if github or gitee stars is below 50000; four stars if github or gitee stars is below 100000;  five stars if github or gitee stars exceed 100000. For example, https://github.com/openai/chatgpt-retrieval-plugin has 15.2K stars and it should be marked as three stars.  
 
 ___  
