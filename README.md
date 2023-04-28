@@ -21,7 +21,7 @@ ___
     * [TOD turns](https://arxiv.org/abs/2004.06871):star::star:([2022更新](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:)
     * [LAION-400_2021](https://arxiv.org/abs/2111.02114):star::star:
     * [Crosswoz](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task):star:
-  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
+  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/#FF6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
     
 * ### _Dataset_   
   * #### Understanding  
