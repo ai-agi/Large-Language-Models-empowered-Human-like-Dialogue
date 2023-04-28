@@ -11,8 +11,8 @@ No star if github or gitee stars is below 100;  one stars if github or gitee sta
 ___  
 ## Open Domain Dialog  (Shen Fanqi)  
 * ### _Paper_  
-  * #### Understanding
-  * #### Generation 
+  * #### Retrieval Model  
+  * #### Generative Model   
     * [DialoGPT(ACL2020)--DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation] 
      (https://arxiv.org/abs/1911.00536) :star::star:   
     * [FusedChat](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:
