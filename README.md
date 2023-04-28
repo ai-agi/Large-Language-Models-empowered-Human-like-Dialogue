@@ -22,7 +22,7 @@ ___
     * [LAION-400_2021](https://arxiv.org/abs/2111.02114):star::star:
     * [Crosswoz](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task):star:
   * #### Multi-modal
-  * - ![#1E90FF]`Multi-modal`
+  * - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Multi-modal`
     
 * ### _Dataset_   
   * #### Understanding  
