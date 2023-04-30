@@ -45,7 +45,8 @@ ___
 ## Task-oriented Dialog  (Jiang Yi)  
 * ### Paper  
   * #### Understanding  
-  * #### Generation  
+  * #### Generation 
+    * [Continual learning for natural language generation in task-oriented dialog systems](https://arxiv.org/abs/2010.00910):star:  
   * #### Multi-modal  
 * ### Dataset  
   * #### Understanding  
