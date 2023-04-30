@@ -58,11 +58,16 @@ ___
   * #### Multi-modal  
 * ### Dataset  
   * #### Understanding  
+    * [Snips](https://github.com/snipsco/nlu-benchmark/tree/master/2017-06-custom-intent-engines):star::star::star::star: 
+    * [MIT Restaurant Corpus](https://groups.csail.mit.edu/sls/downloads/restaurant/):star::star:
+    * [MIT Movie Corpus](https://groups.csail.mit.edu/sls/downloads/movie/):star::star::star:
+    * [frames](https://datasets.maluuba.com/Frames/dl):star::star::star:
   * #### Generation 
     * [including papers in README](https://github.com/songsonggithub/Task-Oriented-Dialogue-Dataset-Survey) 
     * [Dialogue State Tracking](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star:
   * #### Multi-modal 
     * [Multimodal Dialogs (MMD) Dataset](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star: 
+    * [Facebook Multilingual Task Oriented Dataset](https://fb.me/multilingual_task_oriented_data):star::star::star:
 Understanding  
 Generation  
 ***  
