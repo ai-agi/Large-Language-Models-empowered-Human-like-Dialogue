@@ -82,7 +82,11 @@ Generation
     * [Soloist: Building task bots at scale with transfer learning and machine teaching. TACL 2021](https://github.com/pengbaolin/soloist)
     * [UBAR: Towards Fully End-to-End Task-Oriented Dialog Systems with GPT-2. AAAI 2021](https://github.com/TonyNemo/UBAR-MultiWOZ)
   * #### Generation  
+    * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+    * [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
   * #### Multi-modal  
+    * [MiniGPT-4](https://minigpt-4.github.io/)
+    * [MMCoQA: Conversational Question Answering over Text, Tables, and Images](https://aclanthology.org/2022.acl-long.290/)
 * ### Dataset  
   * #### Understanding  
     * [DSTC2-3](https://github.com/matthen/dstc)
@@ -91,6 +95,7 @@ Generation
     * [MSR](https://msropendata.com/datasets/14e910fa-af4a-4a6a-b3b5-fef2f688c923)
     * [Self-play](https://aclanthology.org/N18-1187.pdf)
     * [frames](https://github.com/Maluuba/frames)
+    * [VQA](https://visualqa.org/download.html)
   * #### Generation 
     * [MultiWOZ 2.0](https://aclanthology.org/D18-1547/) 
     * [MultiWOZ 2.1](https://arxiv.org/abs/1907.01669)
