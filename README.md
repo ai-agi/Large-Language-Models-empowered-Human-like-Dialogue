@@ -78,7 +78,9 @@ Generation
 ## Question Answering  (Chen Pu)  
 * ### Paper  
   * #### Understanding  
-  * 
+    * ["TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue"](https://aclanthology.org/2020.emnlp-main.66.pdf)
+    * [Soloist: Building task bots at scale with transfer learning and machine teaching. TACL 2021](https://github.com/pengbaolin/soloist)
+    * [UBAR: Towards Fully End-to-End Task-Oriented Dialog Systems with GPT-2. AAAI 2021](https://github.com/TonyNemo/UBAR-MultiWOZ)
   * #### Generation  
   * #### Multi-modal  
 * ### Dataset  
@@ -86,7 +88,9 @@ Generation
     * [DSTC2-3](https://github.com/matthen/dstc)
     * [SGD](https://ojs.aaai.org//index.php/AAAI/article/view/6394)
     * [SMD](https://pubmed.ncbi.nlm.nih.gov/11125075/)
+    * [MSR](https://msropendata.com/datasets/14e910fa-af4a-4a6a-b3b5-fef2f688c923)
     * [Self-play](https://aclanthology.org/N18-1187.pdf)
+    * [frames](https://github.com/Maluuba/frames)
   * #### Generation 
     * [MultiWOZ 2.0](https://aclanthology.org/D18-1547/) 
     * [MultiWOZ 2.1](https://arxiv.org/abs/1907.01669)
