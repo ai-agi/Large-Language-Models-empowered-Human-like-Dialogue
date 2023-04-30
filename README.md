@@ -55,6 +55,7 @@ ___
     * [Galaxy: A generative pre-trained model for task-oriented dialog with semi-supervised learning and explicit policy injection](https://ojs.aaai.org/index.php/AAAI/article/view/21320):star:
     * [Recent advances and challenges in task-oriented dialog systems](https://link.springer.com/article/10.1007/s11431-020-1692-3):star::star:
     * [PRAL: A tailored pre-training model for task-oriented dialog generation](https://aclanthology.org/2021.acl-short.40/):star:
+    * [ MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://paperswithcode.com/paper/mutual-a-dataset-for-multi-turn-dialogue):star:
   * #### Multi-modal  
     * [MVP: Multi-task Supervised Pre-training for Natural Language Generation](https://paperswithcode.com/paper/mvp-multi-task-supervised-pre-training-for):star::star::star: 
 * ### Dataset  
@@ -67,6 +68,7 @@ ___
   * #### Generation 
     * [including papers in README](https://github.com/songsonggithub/Task-Oriented-Dialogue-Dataset-Survey) 
     * [Dialogue State Tracking](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star:
+    * [MuTual](https://paperswithcode.com/paper/mutual-a-dataset-for-multi-turn-dialogue):star::star::star:
   * #### Multi-modal 
     * [Multimodal Dialogs (MMD) Dataset](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star: 
     * [Facebook Multilingual Task Oriented Dataset](https://fb.me/multilingual_task_oriented_data):star::star::star:
