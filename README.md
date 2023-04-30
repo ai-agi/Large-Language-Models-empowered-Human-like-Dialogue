@@ -78,12 +78,19 @@ Generation
 ## Question Answering  (Chen Pu)  
 * ### Paper  
   * #### Understanding  
+  * 
   * #### Generation  
   * #### Multi-modal  
-Dataset  
-Understanding  
-Generation  
-***  
+* ### Dataset  
+  * #### Understanding  
+    * [DSTC2-3](https://github.com/matthen/dstc)
+    * [SGD](https://ojs.aaai.org//index.php/AAAI/article/view/6394)
+    * [SMD](https://pubmed.ncbi.nlm.nih.gov/11125075/)
+    * [Self-play](https://aclanthology.org/N18-1187.pdf)
+  * #### Generation 
+    * [MultiWOZ 2.0](https://aclanthology.org/D18-1547/) 
+    * [MultiWOZ 2.1](https://arxiv.org/abs/1907.01669)
+    * [MultiWOZ 2.2](https://aclanthology.org/2020.nlp4convai-1.13/)
 
 ## Evaluator
 * ### Paper  
