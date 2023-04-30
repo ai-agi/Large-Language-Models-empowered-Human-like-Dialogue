@@ -47,14 +47,17 @@ ___
   * #### Understanding  
   * #### Generation 
     * [Continual learning for natural language generation in task-oriented dialog systems](https://arxiv.org/abs/2010.00910):star:  
+    * [Efficient retrieval augmented generation from unstructured knowledge for task-oriented dialog](https://arxiv.org/abs/2102.04643):star:
+    * [Galaxy: A generative pre-trained model for task-oriented dialog with semi-supervised learning and explicit policy injection](https://ojs.aaai.org/index.php/AAAI/article/view/21320):star:
+    * [Recent advances and challenges in task-oriented dialog systems](https://link.springer.com/article/10.1007/s11431-020-1692-3):star::star:
   * #### Multi-modal  
 * ### Dataset  
   * #### Understanding  
   * #### Generation 
     * [including papers in README](https://github.com/songsonggithub/Task-Oriented-Dialogue-Dataset-Survey) 
-    * [Dialogue State Tracking](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star
+    * [Dialogue State Tracking](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star:
   * #### Multi-modal 
-    * [Multimodal Dialogs (MMD) Dataset](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star 
+    * [Multimodal Dialogs (MMD) Dataset](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star: 
 Understanding  
 Generation  
 ***  
