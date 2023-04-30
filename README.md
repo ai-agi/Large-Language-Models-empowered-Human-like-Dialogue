@@ -46,7 +46,7 @@ ___
 * ### Paper  
   * #### Understanding  
     * [Robustness testing of language understanding in task-oriented dialog](https://arxiv.org/abs/2012.15262):star:
-    * [SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding](SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding)
+    * [SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding](https://arxiv.org/abs/2209.06638):star:
     * [Space-3: Unified dialog model pre-training for task-oriented dialog understanding and generation](https://arxiv.org/abs/2209.06664)
     * [Natural language understanding for task oriented dialog in the biomedical domain in a low resources context](https://arxiv.org/abs/1811.09417)
   * #### Generation 
@@ -54,6 +54,7 @@ ___
     * [Efficient retrieval augmented generation from unstructured knowledge for task-oriented dialog](https://arxiv.org/abs/2102.04643):star:
     * [Galaxy: A generative pre-trained model for task-oriented dialog with semi-supervised learning and explicit policy injection](https://ojs.aaai.org/index.php/AAAI/article/view/21320):star:
     * [Recent advances and challenges in task-oriented dialog systems](https://link.springer.com/article/10.1007/s11431-020-1692-3):star::star:
+    * [PRAL: A tailored pre-training model for task-oriented dialog generation](https://aclanthology.org/2021.acl-short.40/):star:
   * #### Multi-modal  
 * ### Dataset  
   * #### Understanding  
