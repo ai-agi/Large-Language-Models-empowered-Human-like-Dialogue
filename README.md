@@ -45,6 +45,10 @@ ___
 ## Task-oriented Dialog  (Jiang Yi)  
 * ### Paper  
   * #### Understanding  
+    * [Robustness testing of language understanding in task-oriented dialog](https://arxiv.org/abs/2012.15262):star:
+    * [SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding](SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding)
+    * [Space-3: Unified dialog model pre-training for task-oriented dialog understanding and generation](https://arxiv.org/abs/2209.06664)
+    * [Natural language understanding for task oriented dialog in the biomedical domain in a low resources context](https://arxiv.org/abs/1811.09417)
   * #### Generation 
     * [Continual learning for natural language generation in task-oriented dialog systems](https://arxiv.org/abs/2010.00910):star:  
     * [Efficient retrieval augmented generation from unstructured knowledge for task-oriented dialog](https://arxiv.org/abs/2102.04643):star:
