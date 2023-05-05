@@ -73,7 +73,8 @@ ___
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal` 
     * [Multimodal Dialogs (MMD) Dataset](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star: 
     * [Facebook Multilingual Task Oriented Dataset](https://fb.me/multilingual_task_oriented_data):star::star::star:
-    * [MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems](https://amritasaha1812.github.io/MMD/)(https://github.com/amritasaha1812/MMD_Code)
+    * [MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems(https://amritasaha1812.github.io/MMD/)]  
+      (https://github.com/amritasaha1812/MMD_Code)
 Understanding  
 Generation  
 ***  
