@@ -69,7 +69,7 @@ ___
     * [including papers in README](https://github.com/songsonggithub/Task-Oriented-Dialogue-Dataset-Survey) 
     * [Dialogue State Tracking](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star:
     * [MuTual](https://paperswithcode.com/paper/mutual-a-dataset-for-multi-turn-dialogue):star::star::star:
-    * [Schema-Guided Dialogue (SGD)](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue):star::star::
+    * [Schema-Guided Dialogue (SGD)](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue):star::star:
   * #### Multi-modal 
     * [Multimodal Dialogs (MMD) Dataset](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star: 
     * [Facebook Multilingual Task Oriented Dataset](https://fb.me/multilingual_task_oriented_data):star::star::star:
