@@ -15,26 +15,32 @@ ___
   * #### Generative Model   
     * [DialoGPT(ACL2020)--DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation] 
      (https://arxiv.org/abs/1911.00536) :star::star:   
-    * [FusedChat](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:
-    * [EVA2.0](https://link.springer.com/article/10.1007/s11633-022-1387-3):star:
-    * [HOPE](https://dl.acm.org/doi/abs/10.1145/3488560.3498509):star:
-    * [TOD turns](https://arxiv.org/abs/2004.06871):star::star:([2022更新](https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:)
-    * [LAION-400_2021](https://arxiv.org/abs/2111.02114):star::star:
-    * [Crosswoz](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task):star:
+    * [FusedChat--Fusing Task-Oriented and Open-Domain Dialogues in Conversational Agents] 2022-06-28
+     (https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:
+    * [EVA2.0--EVA2.0: Investigating Open-domain Chinese Dialogue Systems with Large-scale Pre-training] 2023
+     (https://link.springer.com/article/10.1007/s11633-022-1387-3):star:
+    * [HOPE--Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations] 2022-02
+     (https://dl.acm.org/doi/abs/10.1145/3488560.3498509):star:
+    * [TOD turnsTOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue] 2020
+     (https://arxiv.org/abs/2004.06871):star::star:
+    * [LAION-400_2021--LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs] 2021
+     (https://arxiv.org/abs/2111.02114):star::star:
+    * [Crosswoz--CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset] 2020 
+     (https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task):star:
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
     
 * ### _Dataset_   
   * #### Retrieval Model  
   * #### Generative Model  
-    * [DialoGPT](https://github.com/huggingface/transformers):star::star::star::star::star:
-    * [FusedChat](https://github.com/tomyoung903/FusedChat):star:
-    * [EVA2.0](https://github.com/thu-coai/EVA):star::star:
-    * [HOPE](https://github.com/LCS2-IIITD/SPARTA_WSDM2022):star:
-    * [TOD turns](https://github.com/tomyoung903/FusedChat):star:
-    * [CDial-GPT](https://github.com/thu-coai/CDial-GPT):star::star::star::star:
-    * [zhddline](https://github.com/zll17/Neural_Topic_Models):star::star:
-    * [CrossWOZ](https://github.com/thu-coai/CrossWOZ):star::star:
-    * [banjori](https://github.com/baderj/domain_generation_algorithms):star::star:
+    * [DialoGPT](https://github.com/huggingface/transformers):star::star::star::star:
+    * [FusedChat](https://github.com/tomyoung903/FusedChat) [2022]
+    * [EVA2.0](https://github.com/thu-coai/EVA):star:
+    * [HOPE](https://github.com/LCS2-IIITD/SPARTA_WSDM2022) [2022]
+    * [TOD turns](https://github.com/tomyoung903/FusedChat) [2022]
+    * [CDial-GPT](https://github.com/thu-coai/CDial-GPT):star::star: [2022]
+    * [zhddline](https://github.com/zll17/Neural_Topic_Models):star: [2022]
+    * [CrossWOZ](https://github.com/thu-coai/CrossWOZ):star: [2023-01]
+    * [banjori](https://github.com/baderj/domain_generation_algorithms):star: [2023-03]
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
 * ### _Code_   
