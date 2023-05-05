@@ -16,17 +16,17 @@ ___
     * [DialoGPT(ACL2020)--DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation] 
      (https://arxiv.org/abs/1911.00536) :star::star:   
     * [FusedChat--Fusing Task-Oriented and Open-Domain Dialogues in Conversational Agents] 2022-06-28
-     (https://ojs.aaai.org/index.php/AAAI/article/view/21416):star:
+     (https://ojs.aaai.org/index.php/AAAI/article/view/21416) :star:
     * [EVA2.0--EVA2.0: Investigating Open-domain Chinese Dialogue Systems with Large-scale Pre-training] 2023
-     (https://link.springer.com/article/10.1007/s11633-022-1387-3):star:
+     (https://link.springer.com/article/10.1007/s11633-022-1387-3) :star:
     * [HOPE--Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations] 2022-02
-     (https://dl.acm.org/doi/abs/10.1145/3488560.3498509):star:
+     (https://dl.acm.org/doi/abs/10.1145/3488560.3498509) :star:
     * [TOD turnsTOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue] 2020
-     (https://arxiv.org/abs/2004.06871):star::star:
+     (https://arxiv.org/abs/2004.06871) :star::star:
     * [LAION-400_2021--LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs] 2021
-     (https://arxiv.org/abs/2111.02114):star::star:
+     (https://arxiv.org/abs/2111.02114) :star::star:
     * [Crosswoz--CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset] 2020 
-     (https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task):star:
+     (https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task) :star:
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
     
 * ### _Dataset_   
