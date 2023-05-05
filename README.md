@@ -75,8 +75,8 @@ ___
     * [Facebook Multilingual Task Oriented Dataset](https://fb.me/multilingual_task_oriented_data):star::star::star:
     * [MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems(https://amritasaha1812.github.io/MMD/)]  
       (https://github.com/amritasaha1812/MMD_Code)
-Understanding  
-Generation  
+ 
+  
 ***  
 ## Question Answering  (Chen Pu)  
 * ### Paper  
