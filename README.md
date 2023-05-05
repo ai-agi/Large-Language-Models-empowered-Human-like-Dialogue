@@ -106,18 +106,19 @@ ___
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
 *** 
-## Evaluator
-* ### Paper  
-  * ####  
-  * #### 
-* ### Model
+## Dialogue or Question Answering Evaluator
+* ### Generative Model
+ * #### Paper  
+   * #####  
+   * ##### 
+ * #### Model
 
-* ### Metrics
+ * #### Metrics
 
 
-* ### Human Evaluation
+ * #### Human Evaluation
 
-* ### Auto Machine Evaluation
+ * #### Auto Machine Evaluation
 
-* ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
+ * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 ***
