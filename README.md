@@ -56,7 +56,7 @@ ___
     * [Recent advances and challenges in task-oriented dialog systems](https://link.springer.com/article/10.1007/s11431-020-1692-3):star::star:
     * [PRAL: A tailored pre-training model for task-oriented dialog generation](https://aclanthology.org/2021.acl-short.40/):star:
     * [ MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://paperswithcode.com/paper/mutual-a-dataset-for-multi-turn-dialogue):star:
-  * #### Multi-modal  
+  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`  
     * [MVP: Multi-task Supervised Pre-training for Natural Language Generation](https://paperswithcode.com/paper/mvp-multi-task-supervised-pre-training-for):star::star::star: 
 * ### Dataset  
   * #### Understanding  
@@ -70,7 +70,7 @@ ___
     * [Dialogue State Tracking](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star:
     * [MuTual](https://paperswithcode.com/paper/mutual-a-dataset-for-multi-turn-dialogue):star::star::star:
     * [Schema-Guided Dialogue (SGD)](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue):star::star:
-  * #### Multi-modal 
+  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal` 
     * [Multimodal Dialogs (MMD) Dataset](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star: 
     * [Facebook Multilingual Task Oriented Dataset](https://fb.me/multilingual_task_oriented_data):star::star::star:
 Understanding  
@@ -85,7 +85,7 @@ Generation
   * #### Generation  
     * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
     * [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
-  * #### Multi-modal  
+  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal` 
     * [MiniGPT-4](https://minigpt-4.github.io/)
     * [MMCoQA: Conversational Question Answering over Text, Tables, and Images](https://aclanthology.org/2022.acl-long.290/)
 * ### Dataset  
@@ -101,6 +101,7 @@ Generation
     * [MultiWOZ 2.0](https://aclanthology.org/D18-1547/) 
     * [MultiWOZ 2.1](https://arxiv.org/abs/1907.01669)
     * [MultiWOZ 2.2](https://aclanthology.org/2020.nlp4convai-1.13/)
+  * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
 ## Evaluator
 * ### Paper  
@@ -114,4 +115,6 @@ Generation
 * ### Human Evaluation
 
 * ### Auto Machine Evaluation
+
+* #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 ***
