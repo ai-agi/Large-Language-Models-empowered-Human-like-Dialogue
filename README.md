@@ -12,6 +12,8 @@ ___
 ## Open Domain Dialog  (Shen Fanqi)  
 * ### _Paper_  
   * #### Retrieval Model  
+    * [M2GCN: multi-modal graph convolutional network for modeling polypharmacy](https://link.springer.com/article/10.1007/s10489-022-03839-z)
+    * [M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation](https://arxiv.org/pdf/2304.07911.pdf)
   * #### Generative Model   
     * [DialoGPT(ACL2020)--DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation] 
      (https://arxiv.org/abs/1911.00536) :star::star:   
@@ -27,10 +29,13 @@ ___
      (https://arxiv.org/abs/2111.02114) :star::star:
     * [Crosswoz--CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset] 2020 
      (https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00314/96453/CrossWOZ-A-Large-Scale-Chinese-Cross-Domain-Task) :star:
+    * [Search-engine-augmented dialogue response generation with cheaply supervised query production](https://arxiv.org/pdf/2302.09300.pdf) 2023-04
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
+    * [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://arxiv.org/pdf/2211.05719.pdf)
     
 * ### _Dataset_   
   * #### Retrieval Model  
+    * [M2GCN](https://github.com/farkguidao/M2GCN)[2021-12]
   * #### Generative Model  
     * [DialoGPT](https://github.com/huggingface/transformers):star::star::star::star:
     * [FusedChat](https://github.com/tomyoung903/FusedChat) [2022]
@@ -42,7 +47,8 @@ ___
     * [CrossWOZ](https://github.com/thu-coai/CrossWOZ):star: [2023-01]
     * [banjori](https://github.com/baderj/domain_generation_algorithms):star: [2023-03]
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
-
+    * [MMDialog](https://github.com/victorsungo/MMDialog):star: [2022-12]
+    
 * ### _Code_   
   * #### Retrieval Model  
   * #### Generative Model 
