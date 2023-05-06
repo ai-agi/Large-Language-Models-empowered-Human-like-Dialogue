@@ -86,6 +86,9 @@ ___
     * [Dialogue State Tracking](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star:
     * [MuTual](https://paperswithcode.com/paper/mutual-a-dataset-for-multi-turn-dialogue):star::star::star:
     * [Schema-Guided Dialogue (SGD)](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue):star::star:
+    * [Wizard of Wikipedia - ICLR 2019](https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/ParlAI/tree/master/projects/wizard_of_wikipedia2)
+    * [Movie-chats - EMNLP 2020](https://link.zhihu.com/?target=https%3A//github.com/chin-gyou/MovieChats)
+    * [doc2dial - ACL 2021](https://link.zhihu.com/?target=https%3A//github.com/doc2dial/sharedtask-dialdoc2021)
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal` 
     * [Multimodal Dialogs (MMD) Dataset](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star: 
     * [Facebook Multilingual Task Oriented Dataset](https://fb.me/multilingual_task_oriented_data):star::star::star:
