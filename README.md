@@ -96,12 +96,15 @@ ___
     * ["TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue"](https://aclanthology.org/2020.emnlp-main.66.pdf)
     * [Soloist: Building task bots at scale with transfer learning and machine teaching. TACL 2021](https://github.com/pengbaolin/soloist)
     * [UBAR: Towards Fully End-to-End Task-Oriented Dialog Systems with GPT-2. AAAI 2021](https://github.com/TonyNemo/UBAR-MultiWOZ)
+    * [Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation](https://dl.acm.org/doi/10.1145/3477495.3532069)
+    * [Task-Oriented Dialogue System as Natural Language Generation](https://dl.acm.org/doi/10.1145/3477495.3531920)
   * #### Generation  
     * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
     * [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal` 
     * [MiniGPT-4](https://minigpt-4.github.io/)
     * [MMCoQA: Conversational Question Answering over Text, Tables, and Images](https://aclanthology.org/2022.acl-long.290/)
+    * [Understanding User Satisfaction with Task-oriented Dialogue Systems](https://dl.acm.org/doi/10.1145/3477495.3531798)
 * ### Dataset  
   * #### Understanding  
     * [DSTC2-3](https://github.com/matthen/dstc)
@@ -111,6 +114,8 @@ ___
     * [Self-play](https://aclanthology.org/N18-1187.pdf)
     * [frames](https://github.com/Maluuba/frames)
     * [VQA](https://visualqa.org/download.html)
+    * [ArchivalQA: A Large-scale Benchmark Dataset for Open-Domain Question Answering over Historical News Collections](https://dl.acm.org/doi/10.1145/3477495.3531734)
+    * [VideoABC: A Real-World Video Dataset for Abductive Visual Reasoning](https://ieeexplore.ieee.org/document/9893026)
   * #### Generation 
     * [MultiWOZ 2.0](https://aclanthology.org/D18-1547/) 
     * [MultiWOZ 2.1](https://arxiv.org/abs/1907.01669)
