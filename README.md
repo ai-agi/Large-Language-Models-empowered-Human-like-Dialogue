@@ -3,10 +3,10 @@
 ___  
 ## __Note__  
 $\color{green}{Paper}$ :dart:  
-No star if cite number is below 10;  one stars if cite number is below 100;  two stars if cite number is below 1000; three stars if cite number is below 5000; four stars if cite number is below 10000;  five stars if cite number exceed 10000. For example, DialoGPT have been cited 892 times up to now and it should be marked as two stars. 
+No star if cite number is below 10;  one stars if cite number is below 100;  two stars if cite number is below 1000; three stars if cite number is below 5000; four stars if cite number is below 10000;  five stars if cite number exceed 10000. For example, DialoGPT have been cited 892 times (before April 28th, 2023) and it should be marked as two stars. 
 
 $\color{orange}{Dataset \ or \ Code\}$ :dart:  
-No star if github or gitee stars is below 100;  one stars if github or gitee stars are below 1K;  two stars if github or gitee stars is below 10K; three stars if github or gitee stars are below 50K; four stars if github or gitee stars are below 100K;  five stars if github or gitee stars exceed 1M. For example, https://github.com/openai/chatgpt-retrieval-plugin has 15.2K stars and it should be marked as three stars.  
+No star if github or gitee stars is below 100;  one stars if github or gitee stars are below 1K;  two stars if github or gitee stars is below 10K; three stars if github or gitee stars are below 50K; four stars if github or gitee stars are below 100K;  five stars if github or gitee stars exceed 1M. For example, https://github.com/openai/chatgpt-retrieval-plugin has 15.2K stars (before April 28th, 2023) and it should be marked as three stars.  
 
 ___  
 ## Open Domain Dialog  (Shen Fanqi)  
