@@ -32,6 +32,7 @@ ___
     * [Search-engine-augmented dialogue response generation with cheaply supervised query production](https://arxiv.org/pdf/2302.09300.pdf) 2023-04
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
     * [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://arxiv.org/pdf/2211.05719.pdf)
+    * [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf):star::star: [2022]
     
 * ### _Dataset_   
   * #### Retrieval Model  
@@ -48,6 +49,9 @@ ___
     * [banjori](https://github.com/baderj/domain_generation_algorithms):star: [2023-03]
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
     * [MMDialog](https://github.com/victorsungo/MMDialog):star: [2022-12]
+    [VISDIAL](https://paperswithcode.com/dataset/visdial)
+    * [BLIP](https://github.com/salesforce/BLIP):star::star: [2022-09]
+    * [lavis](https://github.com/salesforce/lavis):star::star:
     
 * ### _Code_   
   * #### Retrieval Model  
