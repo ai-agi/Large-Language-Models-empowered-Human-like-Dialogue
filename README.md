@@ -65,6 +65,7 @@ ___
     * [SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding](https://arxiv.org/abs/2209.06638):star:
     * [Space-3: Unified dialog model pre-training for task-oriented dialog understanding and generation](https://arxiv.org/abs/2209.06664)
     * [Natural language understanding for task oriented dialog in the biomedical domain in a low resources context](https://arxiv.org/abs/1811.09417)
+    * [Proactive Human-Machine Conversation with Explicit Conversation Goals](https://arxiv.org/abs/1906.05572)
   * #### Generation 
     * [Continual learning for natural language generation in task-oriented dialog systems](https://arxiv.org/abs/2010.00910):star:  
     * [Efficient retrieval augmented generation from unstructured knowledge for task-oriented dialog](https://arxiv.org/abs/2102.04643):star:
@@ -81,6 +82,7 @@ ___
     * [MIT Movie Corpus](https://groups.csail.mit.edu/sls/downloads/movie/):star::star::star:
     * [frames](https://datasets.maluuba.com/Frames/dl):star::star::star:
     * [WOZ](https://paperswithcode.com/paper/multiwoz-a-large-scale-multi-domain-wizard-of):star::star::star:
+    * [DuConv](https://link.zhihu.com/?target=https%3A//github.com/Cindy-xdZhang/ACL-duconv)
   * #### Generation 
     * [including papers in README](https://github.com/songsonggithub/Task-Oriented-Dialogue-Dataset-Survey) 
     * [Dialogue State Tracking](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey):star:
