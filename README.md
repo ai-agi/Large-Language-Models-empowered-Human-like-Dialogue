@@ -127,7 +127,7 @@ ___
 
   * #### Metrics
     * ##### Correlation between Automated Evaluation Scores and Human Judgement
-       * Spearman Correlation
+       * ###### Spearman Correlation
        * ###### Pearson Correlation
 
 
