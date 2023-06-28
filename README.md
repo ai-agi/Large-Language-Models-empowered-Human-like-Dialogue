@@ -153,7 +153,7 @@ ___
 
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
  
-  * #### <p style="color:#ff6347">`Multi-modal`/p>
+  * #### <p style="color:#ff6347">Multi-modal/p>
 ***
 
 <img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="50%" height="50%">
