@@ -8,11 +8,10 @@ No star if cite number is below 10;  one stars if cite number is below 100;  two
 $\color{orange}{Dataset \ or \ Code\}$ :dart:  
 No star if github or gitee stars is below 100;  one stars if github or gitee stars are below 1K;  two stars if github or gitee stars is below 10K; three stars if github or gitee stars are below 50K; four stars if github or gitee stars are below 100K;  five stars if github or gitee stars exceed 1M. For example, https://github.com/openai/chatgpt-retrieval-plugin has 15.2K stars (before April 28th, 2023) and it should be marked as three stars.  
 
-___  
-
 ```diff
 + 新增内容
 - 删除内容
+___  
 
 ## Open Domain Dialog  (Shen Fanqi)  
 * ### _Paper_  
