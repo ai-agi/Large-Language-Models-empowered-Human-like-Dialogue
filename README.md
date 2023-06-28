@@ -151,7 +151,7 @@ ___
 
   * #### Automated Evaluation Metrics
 
-  * #### $\color{Cyan}`Multi`\color{teal}`-`\color{orange}`modal`$
+  * #### $`\color{Cyan}Multi\color{teal}-\color{orange}modal`$
 
 
 $\textcolor{GreenYellow}{Multi-modal} $
