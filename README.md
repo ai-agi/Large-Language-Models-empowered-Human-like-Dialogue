@@ -1,4 +1,4 @@
-# **Miscellaneous Dialog Datum**:blush:  
+# + **Miscellaneous Dialog Datum**:blush:  
 
 ___  
 ## __Note__  
