@@ -154,13 +154,26 @@ ___
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
  
   * #### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Multi-modal`
-  * ####\`\`\`diff
-- red
-+ green
-! orange
-# gray
-\`\`\`
- 
+  * ####
+    <p align="center"><img src="http://md.hao2.top/img/logo.png"
+        alt="Logo" width="158" height="82" style="max-width: 100%;"></p>
+<h1 align="center">Tmier</h1>
+<p align="center">这里是简介~</p>
+<p align="center">
+    <a href="https://github.com/1042970366/">
+        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" />
+    </a>
+    <a href="https://vuejs.org/">
+        <img src="https://img.shields.io/badge/vue.js-2.0-green" alt="Vue2.0">
+    </a>
+    <a href="https://github.com/1042970366/">
+        <img src="https://img.shields.io/badge/author-Tmier-blueviolet" alt="Author">
+    </a>
+    <a href="https://github.com/1042970366/">
+        <img src="https://img.shields.io/badge/?-open--in--browser-blueviolet" alt="Live Demo">
+    </a>
+</p>
+    
 ***
 
 <img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="50%" height="50%">
