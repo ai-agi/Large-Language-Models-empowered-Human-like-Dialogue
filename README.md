@@ -155,78 +155,76 @@ ___
 
   * #### <font color=green >Multi</font> <font color=##FF6347 >-</font> <font color=##FFD700 >modal</font>
 
-   * #### 
-  <pre color="#1589F0" face="Microsoft YaHei">
-  Multi-modal
-  </pre>
+   * #### $\textcolor{BlueViolet}{Mul}$ $\textcolor{BurntOrange}{ti}$ $\textcolor{TealBlue}{modal} $
 
-$\textcolor{GreenYellow}{GreenYellow} $
-$\textcolor{Yellow}{Yellow}$
-$\textcolor{Goldenrod}{Goldenrod} $
-$\textcolor{Dandelion}{Dandelion}$
-$\textcolor{Apricot}{Apricot} $
-$\textcolor{Peach}{Peach}$
-$\textcolor{Melon}{Melon} $
-$\textcolor{YellowOrange}{YellowOrange}$
-$\textcolor{Orange}{Orange} $
-$\textcolor{BurntOrange}{BurntOrange}$
-$\textcolor{Bittersweet}{Bittersweet}$
-$\textcolor{RedOrange}{RedOrange} $
-$\textcolor{Mahogany}{Mahogany}$
-$\textcolor{Maroon}{Maroon} $
-$\textcolor{BrickRed}{BrickRed}$
-$\textcolor{Red}{Red} $
-$\textcolor{OrangeRed}{OrangeRed}$
-$\textcolor{RubineRed}{RubineRed}$
-$\textcolor{WildStrawberry}{WildStrawberry}$
-$\textcolor{Salmon}{Salmon}$
-$\textcolor{CarnationPink}{CarnationPink}$
-$\textcolor{Magenta}{Magenta} $
-$\textcolor{VioletRed}{VioletRed}$
-$\textcolor{Rhodamine}{Rhodamine} $
-$\textcolor{Mulberry}{Mulberry}$
-$\textcolor{RedViolet}{RedViolet} $
-$\textcolor{Fuchsia}{Fuchsia}$
-$\textcolor{Lavender}{Lavender} $
-$\textcolor{Thistle}{Thistle}$
-$\textcolor{Orchid}{Orchid} $
-$\textcolor{DarkOrchid}{DarkOrchid}$
-$\textcolor{Purple}{Purple} $
-$\textcolor{Plum}{Plum}$
-$\textcolor{Violet}{Violet} $
-$\textcolor{RoyalPurple}{RoyalPurple}$
-$\textcolor{BlueViolet}{BlueViolet}$
-$\textcolor{Periwinkle}{Periwinkle}$
-$\textcolor{CadetBlue}{CadetBlue}$
-$\textcolor{CornflowerBlue}{CornflowerBlue}$
-$\textcolor{MidnightBlue}{MidnightBlue}$
-$\textcolor{NavyBlue}{NavyBlue} $
-$\textcolor{RoyalBlue}{RoyalBlue}$
-$\textcolor{Blue}{Blue} $
-$\textcolor{Cerulean}{Cerulean}$
-$\textcolor{Cyan}{Cyan} $
-$\textcolor{ProcessBlue}{ProcessBlue}$
-$\textcolor{SkyBlue}{SkyBlue} $
-$\textcolor{Turquoise}{Turquoise}$
-$\textcolor{TealBlue}{TealBlue} $
-$\textcolor{Aquamarine}{Aquamarine}$
-$\textcolor{BlueGreen}{BlueGreen} $
-$\textcolor{Emerald}{Emerald}$
-$\textcolor{JungleGreen}{JungleGreen}$
-$\textcolor{SeaGreen}{SeaGreen} $
-$\textcolor{Green}{Green}$
-$\textcolor{ForestGreen}{ForestGreen}$
-$\textcolor{PineGreen}{PineGreen} $
-$\textcolor{LimeGreen}{LimeGreen}$
-$\textcolor{YellowGreen}{YellowGreen}$
-$\textcolor{SpringGreen}{SpringGreen}$
-$\textcolor{OliveGreen}{OliveGreen}$
-$\textcolor{RawSienna}{RawSienna} $
-$\textcolor{Sepia}{Sepia}$
-$\textcolor{Brown}{Brown} $
-$\textcolor{Tan}{Tan}$
-$\textcolor{Gray}{Gray} $
-$\textcolor{Black}{Black}$  
+
+$\textcolor{GreenYellow}{Multi-modal} $
+$\textcolor{Yellow}{Multi-modal}$
+$\textcolor{Goldenrod}{Multi-modal} $
+$\textcolor{Dandelion}{Multi-modal}$
+$\textcolor{Apricot}{Multi-modal} $
+$\textcolor{Peach}{Multi-modal}$
+$\textcolor{Melon}{Multi-modal} $
+$\textcolor{YellowOrange}{Multi-modal}$
+$\textcolor{Orange}{Multi-modal} $
+$\textcolor{BurntOrange}{Multi-modal}$
+$\textcolor{Bittersweet}{Multi-modalt}$
+$\textcolor{RedOrange}{Multi-modal} $
+$\textcolor{Mahogany}{Multi-modal}$
+$\textcolor{Maroon}{Multi-modal} $
+$\textcolor{BrickRed}{Multi-modal}$
+$\textcolor{Red}{Multi-modal} $
+$\textcolor{OrangeRed}{Multi-modal}$
+$\textcolor{RubineRed}{Multi-modal}$
+$\textcolor{WildStrawberry}{Multi-modal}$
+$\textcolor{Salmon}{Multi-modal}$
+$\textcolor{CarnationPink}{Multi-modal}$
+$\textcolor{Magenta}{Multi-modal} $
+$\textcolor{VioletRed}{Multi-modal}$
+$\textcolor{Rhodamine}{Multi-modal} $
+$\textcolor{Mulberry}{Multi-modal}$
+$\textcolor{RedViolet}{Multi-modal} $
+$\textcolor{Fuchsia}{Multi-modal}$
+$\textcolor{Lavender}{Multi-modal} $
+$\textcolor{Thistle}{Multi-modal}$
+$\textcolor{Orchid}{Multi-modal} $
+$\textcolor{DarkOrchid}{Multi-modal}$
+$\textcolor{Purple}{Multi-modal} $
+$\textcolor{Plum}{Multi-modal}$
+$\textcolor{Violet}{Multi-modal} $
+$\textcolor{RoyalPurple}{Multi-modal}$
+$\textcolor{BlueViolet}{Multi-modal}$
+$\textcolor{Periwinkle}{Multi-modal}$
+$\textcolor{CadetBlue}{Multi-modal}$
+$\textcolor{CornflowerBlue}{Multi-modal}$
+$\textcolor{MidnightBlue}{Multi-modal}$
+$\textcolor{NavyBlue}{Multi-modal} $
+$\textcolor{RoyalBlue}{Multi-modal}$
+$\textcolor{Blue}{Multi-modal} $
+$\textcolor{Cerulean}{Multi-modal}$
+$\textcolor{Cyan}{Multi-modal} $
+$\textcolor{ProcessBlue}{Multi-modal}$
+$\textcolor{SkyBlue}{Multi-modal} $
+$\textcolor{Turquoise}{Multi-modal}$
+$\textcolor{TealBlue}{Multi-modal} $
+$\textcolor{Aquamarine}{Multi-modal}$
+$\textcolor{BlueGreen}{Multi-modal} $
+$\textcolor{Emerald}{Multi-modal}$
+$\textcolor{JungleGreen}{Multi-modal}$
+$\textcolor{SeaGreen}{Multi-modal} $
+$\textcolor{Green}{Multi-modal}$
+$\textcolor{ForestGreen}{Multi-modal}$
+$\textcolor{PineGreen}{Multi-modal} $
+$\textcolor{LimeGreen}{Multi-modal}$
+$\textcolor{YellowGreen}{Multi-modal}$
+$\textcolor{SpringGreen}{Multi-modal}$
+$\textcolor{OliveGreen}{Multi-modal}$
+$\textcolor{RawSienna}{Multi-modal} $
+$\textcolor{Sepia}{Multi-modal}$
+$\textcolor{Brown}{Multi-modal} $
+$\textcolor{Tan}{Multi-modal}$
+$\textcolor{Gray}{Multi-modal} $
+$\textcolor{Black}{Multi-modal}$  
     
 ***
 
