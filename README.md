@@ -153,13 +153,8 @@ ___
 
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
-  * #### **$\textcolor{YellowOrange}{Multi}$**__$\textcolor{OrangeRed}{-}$__**$\textcolor{TealBlue}{modal}$**
-<font face="黑体">我是黑体字</font>
-<font face="微软雅黑">我是微软雅黑</font>
-<font face="STCAIYUN">我是华文彩云</font>
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
-<font color=#00ffff size=72>color=#00ffff</font>
-<font color=gray size=72>color=gray</font>
+  * #### <kbd>$\textcolor{YellowOrange}{Multi}$$\textcolor{OrangeRed}{-}$$\textcolor{TealBlue}{modal}$<kbd>
+
 
 $\textcolor{GreenYellow}{Multi-modal} $
 $\textcolor{Yellow}{Multi-modal}$
