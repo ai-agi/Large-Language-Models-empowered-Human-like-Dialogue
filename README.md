@@ -153,7 +153,8 @@ ___
 
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
-  $\color{Cyan}__Multi__\color{Teal}__modal__$
+  $\color{Cyan}__Multi__$
+  $\color{Teal}__modal__$
 
 
 $\textcolor{GreenYellow}{Multi-modal} $
