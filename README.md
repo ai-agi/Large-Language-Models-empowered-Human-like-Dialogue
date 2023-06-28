@@ -156,9 +156,9 @@ ___
   * #### <font color=green >Multi</font> <font color=##FF6347 >-</font> <font color=##FFD700 >modal</font>
 
    * #### 
-  <pre color="#19CAAD" face="Microsoft YaHei">
-  这个类是用来测试的
-   </pre>
+  <pre color="#1589F0" face="Microsoft YaHei">
+  Multi-modal
+  </pre>
 
   
     
