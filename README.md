@@ -153,11 +153,7 @@ ___
 
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
-  * #### \colorbox{Orange}**Multi** \colorbox{Cyan}**-** \colorbox{Aquamarine}**modal**
-  *
-  * <kbd>$\textcolor{YellowOrange}{Multi}\textcolor{OrangeRed}{-}\textcolor{TealBlue}{modal}$<kbd>
-
-  $\color{Cyan}Test$
+  $\color{Cyan}__Multi__$  $\color{Teal}__modal__$
 
 
 $\textcolor{GreenYellow}{Multi-modal} $
