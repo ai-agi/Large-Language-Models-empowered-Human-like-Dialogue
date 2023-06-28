@@ -155,7 +155,7 @@ ___
 
   * #### <font color=green >Multi</font> <font color=##FF6347 >-</font> <font color=##FFD700 >modal</font>
 
-   * #### $\textcolor{BlueViolet}{Mul}$ $\textcolor{BurntOrange}{ti}$ $\textcolor{TealBlue}{modal} $
+   * #### **$\textcolor{SkyBlue}{Mul}$****$\textcolor{OrangeRed}{ti-}$****$\textcolor{TealBlue}{modal}$**
 
 
 $\textcolor{GreenYellow}{Multi-modal} $
