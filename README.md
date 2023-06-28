@@ -155,8 +155,12 @@ ___
 
   * #### <font color=green >Multi</font> <font color=##FF6347 >-</font> <font color=##FFD700 >modal</font>
 
-   * #### 这里的背景色是：OrangeRed， 十六进制颜色值：#FF4500， rgb(255, 69, 0)
+   * #### 
+  <pre color="#19CAAD" face="Microsoft YaHei">
+  这个类是用来测试的
+   </pre>
 
+  
     
 ***
 
