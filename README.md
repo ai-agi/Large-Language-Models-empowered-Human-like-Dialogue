@@ -157,6 +157,8 @@ ___
   *
   * <kbd>$\textcolor{YellowOrange}{Multi}\textcolor{OrangeRed}{-}\textcolor{TealBlue}{modal}$<kbd>
 
+  $\color{Cyan}Test$
+
 
 $\textcolor{GreenYellow}{Multi-modal} $
 $\textcolor{Yellow}{Multi-modal}$
