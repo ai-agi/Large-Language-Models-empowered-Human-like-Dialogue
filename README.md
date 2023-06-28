@@ -153,7 +153,7 @@ ___
 
   * #### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) ![##FF6347](https://via.placeholder.com/15/ff6347/000000?text=+) ![##FFD700](https://via.placeholder.com/15/ffd700/000000?text=+) `Multi-modal`
 
-  * #### <font color=#1589F0 >Multi</font> <font color=##FF6347 >-</font> <font color=##FFD700 >modal</font>
+  * #### <font color=green >Multi</font> <font color=##FF6347 >-</font> <font color=##FFD700 >modal</font>
 
     
 ***
